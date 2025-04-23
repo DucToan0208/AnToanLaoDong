@@ -1,0 +1,30 @@
+.product-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    text-align: center;
+    height: 400px;
+
+}
+
+.product-card img {
+    max-width: 100%;
+    height: 200px;
+}
+
+.filters {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.product-discount {
+    color: red;
+    font-weight: bold;
+}
+
+.product-price {
+    text-decoration: line-through;
+    color: gray;
+}
+
